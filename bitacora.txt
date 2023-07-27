@@ -1,0 +1,16 @@
+TRABAJO EN CLASE GIT
+
+Integrantes:
+Freiman(Github- Git local), Danna, Mike
+
+Tareas Asignadas:
+
+Cambios Realizados:
+Freiman - Creación del repositorio local
+Freiman - Creación del archivo txt
+
+Comandos Utilizados:
+Freiman - git init
+Freiman - git status
+Freiman - git add .
+Freiman - git commit
