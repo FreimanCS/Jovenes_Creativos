@@ -5,12 +5,11 @@ Freiman(Github- Git local), Danna, Mike
 
 Tareas Asignadas:
 
+Freiman: Crear repositorio local y remoto, añadir el archivo txt, crear una rama propia y cambiar el archivo
+
 Cambios Realizados:
 Freiman - Creación del repositorio local
 Freiman - Creación del archivo txt
 
 Comandos Utilizados:
-Freiman - git init
-Freiman - git status
-Freiman - git add .
-Freiman - git commit
+Freiman: git init, git status. git add, git commit, git branch, git checkout
